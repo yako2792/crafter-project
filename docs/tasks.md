@@ -20,6 +20,7 @@ This file was created with project tracking porpouses.
     
     - [ ] Support for language '-l' option
 
+## PENDING
 
 - [ ] **Add support for Python lang**
 
@@ -30,9 +31,6 @@ This file was created with project tracking porpouses.
 - [ ] **Implement framework templates**
 
     - [ ] Framework template for 'script-utility' type
-
-## PENDING
-
 
 ## DONE
 
