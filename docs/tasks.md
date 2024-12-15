@@ -5,8 +5,14 @@ This file was created with project tracking porpouses.
 ---
 
 ## CURRENTLY
-- [x] This is a marked checkbox
-- [ ] This is an empty checkbox
+1. <details>
+    <summary><h3>Implement command parser</summary></h3>
+
+
+</details>
+
+
+
 
 ## PENDING
 
