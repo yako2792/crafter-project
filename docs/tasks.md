@@ -5,20 +5,31 @@ This file was created with project tracking porpouses.
 ---
 
 ## CURRENTLY
-<details>
-    <summary><h3>Implement command parser</summary></h3>
-   
-    >- [ ] This is a test.
-    >- [x] Another test
 
-    * This is an example of a tasks
+- [ ] Implement commands parser
+
+    - [ ] Support for 'init' command
     
-    * Another example
+    - [ ] Support for 'help' command
 
-</details>
+- [ ] Implement options parser
+
+    - [ ] Support for project type '-t' option
+    
+    - [ ] Support for project name '-n' option
+    
+    - [ ] Support for language '-l' option
 
 
+- [ ] Add support for Python lang
 
+    - [ ] Support 'python' as argument for '-l' option
+
+    - [ ] Support 'script-utility' as argument for '-t' option
+
+- [ ] Implement framework templates
+
+    - [ ] Framework template for 'script-utility' type
 
 ## PENDING
 
