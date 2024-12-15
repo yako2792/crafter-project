@@ -6,13 +6,13 @@ This file was created with project tracking porpouses.
 
 ## CURRENTLY
 
-- [ ] Implement commands parser
+- [ ] **Implement commands parser**
 
     - [ ] Support for 'init' command
     
     - [ ] Support for 'help' command
 
-- [ ] Implement options parser
+- [ ] **Implement options parser**
 
     - [ ] Support for project type '-t' option
     
@@ -21,13 +21,13 @@ This file was created with project tracking porpouses.
     - [ ] Support for language '-l' option
 
 
-- [ ] Add support for Python lang
+- [ ] **Add support for Python lang**
 
     - [ ] Support 'python' as argument for '-l' option
 
     - [ ] Support 'script-utility' as argument for '-t' option
 
-- [ ] Implement framework templates
+- [ ] **Implement framework templates**
 
     - [ ] Framework template for 'script-utility' type
 
