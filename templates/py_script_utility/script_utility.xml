@@ -1,0 +1,16 @@
+<template name="script_utility">
+
+    <directory name="src">
+        <file name="__init__.py"/>
+        <file name="main.py">
+    </directory>
+
+    <directory name="tests">
+        <file name="__init__.py"/>
+        <file name="test_main.py"/>
+    </directory>
+
+    <file name="requirements.txt"/>
+    <file name="README.md"/>
+    
+</template>

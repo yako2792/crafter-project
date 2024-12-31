@@ -8,7 +8,7 @@ This file was created with project tracking porpouses.
 
 - [ ] **Implement framework templates**
 
-    - [ ] Define template project structure
+    - [x] Define template project structure
 
     - [ ] Implement XML parser for template structure
 

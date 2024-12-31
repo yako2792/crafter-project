@@ -1,0 +1,23 @@
+<template name="modular_package">
+
+    <directory name="package_name">
+        <file name="__init__.py"/>
+        <file name="module1.py">
+        <file name="module2.py">
+    </directory>
+
+    <directory name="tests">
+        <file name="__init__.py"/>
+        <file name="test_module1.py"/>
+        <file name="test_module2.py"/>
+    </directory>
+
+    <directory name="docs">
+        <file name="index.md"/>
+    </directory>
+
+    <file name="requirements.txt"/>
+    <file name="setup.py"/>
+    <file name="README.md"/>
+    
+</template>

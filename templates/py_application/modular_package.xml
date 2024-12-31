@@ -1,0 +1,30 @@
+<template name="application">
+
+    <directory name="app">
+        <file name="__init__.py"/>
+        <file name="config.py">
+        <file name="main.py">
+
+        <directory name="utils">
+            <file name="__init__.py">
+            <file name="helpers.py">
+        </directory>
+
+    </directory>
+
+    <directory name="tests">
+        <file name="__init__.py"/>
+        <file name="test_app.py"/>
+    </directory>
+
+    <directory name="conifgs">
+        <file name="dev_config.yaml"/>
+        <file name="test_config.yaml"/>
+        <file name="prod_config.yaml"/>
+    </directory>
+
+    <file name="requirements.txt"/>
+    <file name="setup.py"/>
+    <file name="README.md"/>
+    
+</template>
