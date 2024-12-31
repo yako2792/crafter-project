@@ -38,7 +38,7 @@ function crafter(){
 			logger info "Initializing project..."
 			logger info "Project NAME: $PROJECT_NAME"
 			logger info "Project LANGUAGE: $PROJECT_LANG"
-			logger info "Porject TYPE: $PROJECT_TYPE"
+			logger info "Project TYPE: $PROJECT_TYPE"
 			;;
 		help)
 			logger info "Crafter is a CLI tool designed to simplify creation of projects."

@@ -6,17 +6,16 @@ This file was created with project tracking porpouses.
 
 ## CURRENTLY   
 
-- [ ] **Add support for Python lang**
-
-    - [ ] Support 'python' as argument for '-l' option
-
-    - [ ] Support 'script-utility' as argument for '-t' option
-
 - [ ] **Implement framework templates**
 
-    - [ ] Framework template for 'script-utility' type
+    - [ ] Define template project structure
+
+    - [ ] Implement XML parser for template structure
+
+    - [ ] Implement ZIP file parser for template files 
 
 ## PENDING
+
  - [ ] **Add support for Python lang**
 
     - [ ] Support 'python' as argument for '-l' option
